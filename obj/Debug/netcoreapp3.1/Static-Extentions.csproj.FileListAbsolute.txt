@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Static-Extentions\bin\Debug\netcoreapp3.1\Static-Extentions.exe
+C:\Users\Windows\source\repos\Static-Extentions\bin\Debug\netcoreapp3.1\Static-Extentions.deps.json
+C:\Users\Windows\source\repos\Static-Extentions\bin\Debug\netcoreapp3.1\Static-Extentions.runtimeconfig.json
+C:\Users\Windows\source\repos\Static-Extentions\bin\Debug\netcoreapp3.1\Static-Extentions.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Static-Extentions\bin\Debug\netcoreapp3.1\Static-Extentions.dll
+C:\Users\Windows\source\repos\Static-Extentions\bin\Debug\netcoreapp3.1\Static-Extentions.pdb
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.dll
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.pdb
+C:\Users\Windows\source\repos\Static-Extentions\obj\Debug\netcoreapp3.1\Static-Extentions.genruntimeconfig.cache
